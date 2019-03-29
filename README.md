@@ -12,7 +12,7 @@ Extract:
 
 For this project data was retrieved from Kaggle. The dataset includes over 67,000 employee reviews for Google, Amazon, Facebook, Microsoft, Apple and Netflix. This dataset consists of 17 columns. The full description of the data features can be found in a separate file: 
 
-Employee_reviews.csv
+employee_reviews.csv
 
 Transform: 
 
@@ -27,7 +27,7 @@ MongoDB was selected to load the data because data can be stored in BSON format 
 
 2.	Exploratory Data Analysis
 
-The statistical analysis was done to compare the ratings of 6 corporations: Facebook, Google, Apple, Amazon, Microsoft and Netflix from an employee's perspective. These companies are compared based on the overall ratings, career opportunities, work-life balance, management, culture values and benefits ratings.
+The statistical analysis was done to compare the ratings of 6 corporations: Facebook, Google, Apple, Amazon, Microsoft and Netflix. These companies are compared based on the overall ratings, career opportunities, work-life balance, management, culture values and benefits ratings from an employee's perspective. The details can be found in rating_analysis notebook.
 
 Findings:
 
