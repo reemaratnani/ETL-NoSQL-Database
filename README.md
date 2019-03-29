@@ -1,7 +1,9 @@
 # ETL-project
 
 This project has been divided into two sections: 
+
 	The ETL process
+	
 	Exploratory Data Analysis
 
 1.	The ETL process
