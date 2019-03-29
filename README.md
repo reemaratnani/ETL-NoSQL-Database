@@ -10,15 +10,11 @@ This project has been divided into two sections:
 
 Extract: 
 
-For this project data was retrieved from Kaggle. The dataset includes over 67,000 employee reviews for Google, Amazon, Facebook, Microsoft, Apple and Netflix. This dataset consists of 17 columns. The full description of the data features can be found in a separate file: 
-
-employee_reviews.csv
+For this project data was retrieved from Kaggle. The dataset includes over 67,000 employee reviews for Google, Amazon, Facebook, Microsoft, Apple and Netflix. This dataset consists of 17 columns. The full description of the data features can be found in a separate file: employee_reviews.csv
 
 Transform: 
 
-Data was processed and cleaned with Pandas (Python library). The process of data transformation can be found in rating_analysis notebook. The full description of cleaned data can be found in separate file: 
-
-reviews.csv
+Data was processed and cleaned with Pandas (Python library). The process of data transformation can be found in rating_analysis notebook. The full description of cleaned data can be found in separate file: reviews.csv
 
 Load: 
 
