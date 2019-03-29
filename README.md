@@ -11,16 +11,19 @@ This project has been divided into two sections:
 Extract: 
 
 For this project data was retrieved from Kaggle. The dataset includes over 67,000 employee reviews for Google, Amazon, Facebook, Microsoft, Apple and Netflix. This dataset consists of 17 columns. The full description of the data features can be found in a separate file: 
+
 Employee_reviews.csv
 
 Transform: 
 
 Data was processed and cleaned with Pandas (Python library). The process of data transformation can be found in rating_analysis notebook. The full description of cleaned data can be found in separate file: 
+
 reviews.csv
 
 Load: 
 
 MongoDB was selected to load the data because data can be stored in BSON format – key, value pair and its capable of holding arrays. The loading process and code can be found in LoadDB notebook.
+
 
 2.	Exploratory Data Analysis
 
